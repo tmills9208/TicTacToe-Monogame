@@ -1,2 +1,2 @@
-# Sokoban, made in Monogame
+# Tic Tac Toe, made in Monogame
  
