@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Kimera/OneDrive/ITID/Year 2 Term 1/Game Programming/Assignments/TMillsAssignment3/Assignment3/Content/Font/runescape_chat_bold_2.spritefont</SourceFile>
+  <SourceTime>2019-11-19T12:19:33.5223955-05:00</SourceTime>
+  <DestFile>C:/Users/Kimera/OneDrive/ITID/Year 2 Term 1/Game Programming/Assignments/TMillsAssignment3/Assignment3/Content/bin/Windows/Font/runescape_chat_bold_2.xnb</DestFile>
+  <DestTime>2019-12-02T21:01:53.6680627-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
